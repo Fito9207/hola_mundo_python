@@ -9,3 +9,5 @@
 
 
 print("Hola Mundo!")
+#esta funcion imprime el string Hello World!
+print ("Hello World!")
